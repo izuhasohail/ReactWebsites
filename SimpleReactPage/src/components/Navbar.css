@@ -1,0 +1,40 @@
+.Nav{
+    display: flex;
+    background-color: rgb(4, 1, 45);
+    max-width: 1200px;
+    
+
+}
+
+.nav-img{
+    padding-left: 12px;
+    padding-top: 12px;
+    margin-top: 7px;
+    margin-left: 5px;
+    height: 50px;
+    width: 50px;
+}
+.nav-h{
+    
+    font-size: 23px;
+    font-family: inter;
+    color: rgb(51, 226, 232);
+    stroke: rgb(46, 157, 197);
+    padding-top: 5px;
+    margin-bottom: 30px;
+    padding-right: 80px;
+    padding-left: 7px;
+}
+
+.nav-p{
+    margin-left: auto;
+    margin-right: 27px;
+    margin-top: 29px;
+    font-size: 17px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    color: rgb(245, 236, 236);
+
+    
+}
+

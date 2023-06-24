@@ -1,0 +1,33 @@
+
+
+.content{
+    background-color:rgb(24, 22, 55);
+    padding: 65px;
+    max-width: 1200px;
+    padding-left: 150px;
+}
+
+.heading h1{
+    max-width: 400px;
+    color: #eeecec;
+    letter-spacing: -0.1rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+
+.paras li{
+    font-size: 18px;
+    font-weight: 600;
+    color: #dde7e6;
+}
+.paras{
+    padding: 50px;
+}
+
+.paras li::marker{
+    color: rgb(127, 255, 255);
+}
+
+
+

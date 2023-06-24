@@ -1,0 +1,17 @@
+.card{
+  max-width: 1400px;
+  height: 1000px;
+  background-color:#978e9b;
+}
+.container{
+  max-width: 317px ;
+  height: 880px;
+  margin-left: 400px;
+  background-color:#1A1B21;
+}
+.image{
+  margin: auto;
+  border-radius: 30px;
+  
+  
+}
