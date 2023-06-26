@@ -1,0 +1,26 @@
+.box img{
+    max-width: 360px;
+    height: 232px;
+    align-self: center;
+  
+
+}
+
+.box{
+    justify-self: center;
+    display: flex;
+    flex-direction: column;
+    
+}
+.cont{
+    max-width: 1280px;
+    padding: 20px;
+    height: 400px;
+   
+
+}
+.box h2,p{
+    margin-top: 20px;
+    color: #000000;
+    font-family: sans-serif
+}
